@@ -19,7 +19,7 @@ list of languages and tools I use
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=acochisse&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Acochisse&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=acochisse&hide_border=true)
 
