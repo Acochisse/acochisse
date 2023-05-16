@@ -30,3 +30,4 @@ Outside of work I am a big fan of music and concerts. I collect Vinyl albums. I 
 
 
 
+![image](assets/Concept2.png backColor=#000000)
