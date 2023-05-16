@@ -13,6 +13,8 @@ list of languages and tools I use
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![dart](https://img.shields.io/badge/-dart-000000?style=flat&logo=dart)
+![flutter](https://img.shields.io/badge/-flutter-000000?style=flat&logo=flutter)
 
 ## ⚡ GitHub Stats
 
