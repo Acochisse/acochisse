@@ -30,4 +30,4 @@ Outside of work I am a big fan of music and concerts. I collect Vinyl albums. I 
 
 
 
-![image](https://github.com/Aochisse/acochisse/assets/Concept2.png backColor=#000000)
+![image](https://github.com/Acochisse/acochisse/blob/main/assets/Concept2.png?raw=true backColor=#000000)
