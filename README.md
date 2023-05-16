@@ -1,7 +1,8 @@
 ![logo](https://github.com/Acochisse/acochisse/assets/61358550/5992e7ab-3664-438c-8a10-7d84f5dede19)
 Hello there!
 My name is **Blake** and I'm a **Software Engineer**  I'm from **United States**, living in **Oklahoma**. You can find me on LinkedIn as [Blake](https://www.linkedin.com/in/leestewart909/).
-
+# Personal Website 
+[![Website](https://img.shields.io/website?label=acochisse.com&style=for-the-badge&url=https%3A%2F%2Facochisse.com)](https://acochisse.github.io/Personal_Website/)
 ## ⚡ Languages and Tools
 list of languages and tools I use
 
@@ -30,6 +31,3 @@ list of languages and tools I use
 I am a Tulsa native who just graduated from Holberton School Tulsa. My specialisation is Full-Stack Software Engineering. I am currently looking for a job in the Tulsa area. I am a very hard worker and I love to learn new things. I am a very quick learner and I am always looking for new challenges.
 Outside of work I am a big fan of music and concerts. I collect Vinyl albums. I also am a huge fan of aviation and play a lot of DCS World. I also enjoy playing video games and watching movies.
 
-
-
-![image](https://github.com/Acochisse/acochisse/blob/main/assets/Concept2.png?raw=true backColor=#000000)
