@@ -18,6 +18,8 @@ list of languages and tools I use
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=acochisse&count_private=true&show_icons=true&include_all_commits=true)
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=acochisse&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acochisse&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=acochisse.acochisse)
@@ -25,5 +27,6 @@ list of languages and tools I use
 ## ⚡ About Me
 I am a Tulsa native who just graduated from Holberton School Tulsa. My specialisation is Full-Stack Software Engineering. I am currently looking for a job in the Tulsa area. I am a very hard worker and I love to learn new things. I am a very quick learner and I am always looking for new challenges.
 Outside of work I am a big fan of music and concerts. I collect Vinyl albums. I also am a huge fan of aviation and play a lot of DCS World. I also enjoy playing video games and watching movies.
+
 
 
