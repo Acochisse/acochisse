@@ -2,7 +2,7 @@
 Hello there!
 My name is **Blake** and I'm a **Software Engineer**  I'm from **United States**, living in **Oklahoma**. You can find me on LinkedIn as [Blake](https://www.linkedin.com/in/leestewart909/).
 # Personal Website 
-[![Website](https://img.shields.io/website?label=acochisse.com&style=for-the-badge&url=https%3A%2F%2Facochisse.com)](https://acochisse.github.io/Personal_Website/)
+[![Website](https://img.shields.io/website?label=https://acochisse.github.io/Personal_Website/&style=for-the-badge&url=https://acochisse.github.io/Personal_Website/)](https://acochisse.github.io/Personal_Website/)
 ## ⚡ Languages and Tools
 list of languages and tools I use
 
