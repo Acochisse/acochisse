@@ -1,5 +1,5 @@
+![logo](https://github.com/Acochisse/acochisse/assets/61358550/5992e7ab-3664-438c-8a10-7d84f5dede19)
 Hello there!
-
 My name is **Blake** and I'm a **Software Engineer**  I'm from **United States**, living in **Oklahoma**. You can find me on LinkedIn as [Blake](https://www.linkedin.com/in/leestewart909/).
 
 ## ⚡ Languages and Tools
